@@ -10,5 +10,5 @@ demo : https://lincest.github.io/happybirthday/
 
 ![](https://youpai.roccoshi.top/img/20200801205158.png)
 
-
+> 注意 : 字数过多 ( >3 ) 移动端易失真, 本人研究一番无果后放弃
 
