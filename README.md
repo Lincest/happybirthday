@@ -8,7 +8,7 @@ index.html修改主要信息  **|**  time.js修改生日  **|**  index.js修改�
 
 demo : https://lincest.github.io/happybirthday/
 
-![](https://youpai.roccoshi.top/img/20200801202532.png)
+![](https://youpai.roccoshi.top/img/20200801205158.png)
 
 
 
