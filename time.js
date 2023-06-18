@@ -1,6 +1,6 @@
 function BirthDay() {
     window.setTimeout("BirthDay()", 1000);
-        BirthDay = new Date("08/01/2000 00:00:00"); // 修改出生日期
+        BirthDay = new Date("07/07/2006 00:00:00"); // 修改出生日期
         today = new Date();
         timeold = (today.getTime() - BirthDay.getTime());
         sectimeold = timeold / 1000
